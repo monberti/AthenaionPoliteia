@@ -4,7 +4,7 @@ This repository contains data about the Aristotelian *Athenaion Politiea* (tlg00
 
 Editions (xml files from [PerseusDL Canonical Greek](https://github.com/PerseusDL/canonical-greekLit)):
 
-* [ed. Kenyon)](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.perseus-grc1.xml)
+* [ed. Kenyon](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.perseus-grc1.xml)
 
 Lemmatized xml files ([LemmatizedAncientGreek](https://github.com/gcelano/LemmatizedAncientGreekXML)):
 
