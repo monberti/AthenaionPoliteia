@@ -2,6 +2,10 @@
 
 This repository contains data about the Aristotelian *Athenaion Politiea* (`tlg0086.003`).
 
+TLG Canon: http://stephanus.tlg.uci.edu/Iris/Cite?0086:003:0
+
+Perseus Catalog: https://catalog.perseus.org/catalog/urn:cts:greekLit:tlg0086.tlg003
+
 Editions (`xml` files from [PerseusDL Canonical Greek](https://github.com/PerseusDL/canonical-greekLit)):
 
 * [ed. Kenyon](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.perseus-grc1.xml)
