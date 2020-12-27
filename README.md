@@ -1,18 +1,18 @@
 # AthenaionPoliteia
 
-This repository contains data about the Aristotelian *Athenaion Politiea* (tlg0086.003).
+This repository contains data about the Aristotelian *Athenaion Politiea* (`tlg0086.003`).
 
-Editions (xml files from [PerseusDL Canonical Greek](https://github.com/PerseusDL/canonical-greekLit)):
+Editions (`xml` files from [PerseusDL Canonical Greek](https://github.com/PerseusDL/canonical-greekLit)):
 
 * [ed. Kenyon](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.perseus-grc1.xml)
 
-Lemmatized xml files ([LemmatizedAncientGreekXML](https://github.com/gcelano/LemmatizedAncientGreekXML)):
+Lemmatized `xml` files ([LemmatizedAncientGreekXML](https://github.com/gcelano/LemmatizedAncientGreekXML)):
 
 * [First1kGreek lemmatized 1](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.1st1K-grc1_lemmatized.xml)
 * [First1kGreek lemmatized 2](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.1st1K-grc2_lemmatized.xml)
 
 
-POSTagged xml files ([POStaggedAncientGreekXML](https://github.com/gcelano/POStaggedAncientGreekXML/tree/master/texts)):
+POSTagged `xml` files ([POStaggedAncientGreekXML](https://github.com/gcelano/POStaggedAncientGreekXML/tree/master/texts)):
 
 * [First1kGreek POS tagged 1 (ed. Kenyon)](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.1st1K-grc1_pos.xml)
 * [First1kGreek POS tagged 2 (ed. Kenyon)](https://github.com/monberti/AthenaionPoliteia/blob/main/data/tlg0086.tlg003.1st1K-grc2_pos.xml)
